@@ -1,0 +1,48 @@
+h1 {
+  color: purple;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+h2 {
+  color: green;
+  font-family: cursive;
+}
+
+img.center {
+  height: 300px;
+}
+
+.cupcake {
+  width: 300px;
+  position: relative;
+}
+
+p.intro {
+  color: gray;
+}
+
+p.flavors {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  background-color: blue;
+  background-position: center;
+  border-radius: 15px
+}
+
+body {
+  text-align: center;
+}
+
+.contact {
+  font-size: 30px;
+  font-weight: bolder;
+}
